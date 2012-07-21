@@ -1,7 +1,7 @@
 magic-clock
 ===========
 
-build your own weasly family clock
-for more www.magicclock.de
+Build your own Weasley family clock
+for more visit www.magicclock.de
 
 Made with <3 in Munich
